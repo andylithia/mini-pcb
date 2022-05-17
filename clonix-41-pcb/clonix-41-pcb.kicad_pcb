@@ -1112,15 +1112,32 @@
     )
   )
 
+  (gr_poly
+    (pts
+      (xy 195.58 117.475)
+      (xy 189.611 125.73)
+      (xy 187.9346 125.73)
+      (xy 186.7916 125.73)
+      (xy 195.58 113.5126)
+    ) (layer "B.Mask") (width 0.15) (fill solid) (tstamp 031aceb2-bbf2-4b8c-ae68-70c4268ff579))
+  (gr_line (start 189.611 125.73) (end 191.4144 125.73) (layer "B.Mask") (width 0.15) (tstamp 57c35483-2b88-4aac-ba34-f1559e693d43))
+  (gr_poly
+    (pts
+      (xy 195.58 125.6538)
+      (xy 195.5292 125.6792)
+      (xy 191.4398 125.7046)
+      (xy 195.58 119.9896)
+    ) (layer "B.Mask") (width 0.15) (fill solid) (tstamp 6dbf9789-533d-4d41-a319-610ec7f88501))
+  (gr_line (start 186.9186 125.603) (end 189.6618 125.603) (layer "B.Mask") (width 0.15) (tstamp b65ad1a8-fb7d-483f-b5e4-c49019f7a1c5))
   (gr_rect locked (start 182.372 102.362) (end 195.58 125.73) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp 534221bb-3a70-4af5-8737-2c97cc68e509))
-  (gr_text "NoVRAM Clone\n" (at 190.4492 112.2172 90) (layer "B.SilkS") (tstamp 45d52e33-c150-4458-85df-dcdd3d6cef6b)
+  (gr_text "NoVRAM Clone\n" (at 190.5 110.5408 90) (layer "B.SilkS") (tstamp 45d52e33-c150-4458-85df-dcdd3d6cef6b)
     (effects (font (size 1.5 1.5) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "May 17 2022\n" (at 188.0362 111.6838 90) (layer "B.SilkS") (tstamp 615ad9da-8ebe-4f29-b1bb-eb29534e1fb1)
+  (gr_text "May 17 2022\n" (at 188.087 110.0074 90) (layer "B.SilkS") (tstamp 615ad9da-8ebe-4f29-b1bb-eb29534e1fb1)
     (effects (font (size 1.5 1.5) (thickness 0.2)) (justify mirror))
   )
-  (gr_text "Lithcore.cn" (at 193.1924 112.3442 90) (layer "B.SilkS") (tstamp 6f017a40-2885-4445-853b-3ed2cca05a24)
-    (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
+  (gr_text "Lithcore.cn" (at 193.167 108.6358 90) (layer "B.SilkS") (tstamp 6f017a40-2885-4445-853b-3ed2cca05a24)
+    (effects (font (size 1.5 1.5) (thickness 0.2)) (justify mirror))
   )
 
   (segment (start 189.9842 123.048) (end 190.2714 122.7608) (width 0.25) (layer "F.Cu") (net 1) (tstamp 06678e7a-b6b8-48a4-9e01-ddebeaac5cb2))
