@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Housings_LCC")(type "KiCad")(uri "${KIPRJMOD}/Housings_LCC.pretty")(options "")(descr ""))
+  (lib (name "PLCC32_SMT_Socket")(type "KiCad")(uri "${KIPRJMOD}/PLCC32_SMT_Socket.pretty")(options "")(descr ""))
+)
